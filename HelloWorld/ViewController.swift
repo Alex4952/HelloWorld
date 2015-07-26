@@ -16,6 +16,7 @@ class ViewController: UIViewController {
 		super.viewDidLoad()
 		// Do any additional setup after loading the view, typically from a nib.
 		pLabel.text = "Hello World"
+		println("I can't wait to push this project to GitHub")
 	}
 
 	override func didReceiveMemoryWarning() {
